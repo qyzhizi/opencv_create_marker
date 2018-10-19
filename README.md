@@ -46,7 +46,7 @@ dict`DICT_4X4_100=1`：represent dict‘s content is 4x4 picture and have 100 cl
 - 第四个参数是输出的图像。
 最终，最后一个参数是一个可选的参数，它指定了Marer黑色边界的大小。这一大小与位数数目成正比。例如，值为2意味着边界的宽度将会是2的倍数。默认的值为1。
 生成的图像如下：
-![marker](https://github.com/qyzhizi/opencv_create_marker/blob/master/out_10.jpg?raw=true)
+![marker](https://github.com/qyzhizi/opencv_create_marker/blob/master/out_2_5_200.jpg?raw=true)
 具体代码见：`create_marker.cpp`
 
 
